@@ -1,0 +1,7 @@
+*{ color:rgb(91, 0, 238);
+    font-family:'Times New Roman', Times, serif;
+ }
+
+ #menu-acima  {
+    background-color: rgb(37,37,39);
+ }
